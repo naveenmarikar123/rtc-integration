@@ -1,0 +1,492 @@
+!SESSION 2016-06-23 01:45:59.644 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  load --force --repository-uri https://jazz.net/sandbox-ccm --username naveenmarikar123 --password virtusa@7 --dir /Users/naveenmarikar/IdeaProjects/MavenTest/TestRTC NavWorkSpace
+Command-line arguments:  -data @noDefault load --force --repository-uri https://jazz.net/sandbox-ccm --username naveenmarikar123 --password virtusa@7 --dir /Users/naveenmarikar/IdeaProjects/MavenTest/TestRTC NavWorkSpace
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 01:46:01.637
+!MESSAGE NLS unused message: ResolveCmd_No_CONFLICTS in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 01:46:01.638
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 01:46:01.638
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_1 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 01:46:01.638
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_2 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 01:46:01.863
+!MESSAGE NLS unused message: RepoUtil_NoDeliverableMatchingName in: com.ibm.team.filesystem.cli.core.internal.messages
+!SESSION 2016-06-23 01:46:43.031 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  load --force --repository-uri https://jazz.net/sandbox02-ccm --username naveenmarikar123 --password virtusa@7 --dir /Users/naveenmarikar/IdeaProjects/MavenTest/TestRTC NavWorkSpace
+Command-line arguments:  -data @noDefault load --force --repository-uri https://jazz.net/sandbox02-ccm --username naveenmarikar123 --password virtusa@7 --dir /Users/naveenmarikar/IdeaProjects/MavenTest/TestRTC NavWorkSpace
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 01:46:44.511
+!MESSAGE NLS unused message: ResolveCmd_No_CONFLICTS in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 01:46:44.512
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 01:46:44.512
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_1 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 01:46:44.513
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_2 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 01:46:44.767
+!MESSAGE NLS unused message: RepoUtil_NoDeliverableMatchingName in: com.ibm.team.filesystem.cli.core.internal.messages
+!SESSION 2016-06-23 02:04:38.966 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  load --force --repository-uri https://jazz.net/sandbox02-ccm --username naveenmarikar123 --password virtusa@7 --dir /Users/naveenmarikar/IdeaProjects/MavenTest/TestRTC NavWorkSpace
+Command-line arguments:  -data @noDefault load --force --repository-uri https://jazz.net/sandbox02-ccm --username naveenmarikar123 --password virtusa@7 --dir /Users/naveenmarikar/IdeaProjects/MavenTest/TestRTC NavWorkSpace
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:04:40.669
+!MESSAGE NLS unused message: ResolveCmd_No_CONFLICTS in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:04:40.669
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:04:40.670
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_1 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:04:40.670
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_2 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:04:40.888
+!MESSAGE NLS unused message: RepoUtil_NoDeliverableMatchingName in: com.ibm.team.filesystem.cli.core.internal.messages
+!SESSION 2016-06-23 02:05:12.778 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  annotate --username naveenmarikar123 --password virtusa@7 Main.java
+Command-line arguments:  -data @noDefault annotate --username naveenmarikar123 --password virtusa@7 Main.java
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:05:13.929
+!MESSAGE NLS unused message: ResolveCmd_No_CONFLICTS in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:05:13.929
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:05:13.930
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_1 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:05:13.930
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_2 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:05:14.044
+!MESSAGE NLS unused message: RepoUtil_NoDeliverableMatchingName in: com.ibm.team.filesystem.cli.core.internal.messages
+
+!ENTRY com.ibm.team.repository.rcp.core 4 0 2016-06-23 02:05:34.765
+!MESSAGE CRJAZ1244I Not logged in to the repository at URL "https://jazz.net/sandbox02-ccm/".
+!STACK 0
+com.ibm.team.repository.common.NotLoggedInException: CRJAZ1244I Not logged in to the repository at URL "https://jazz.net/sandbox02-ccm/".
+	at com.ibm.team.repository.client.internal.ServiceInterfaceProxy.ensureLoggedIn(ServiceInterfaceProxy.java:325)
+	at com.ibm.team.repository.client.internal.ServiceInterfaceProxy.validateServiceCall(ServiceInterfaceProxy.java:271)
+	at com.ibm.team.repository.client.internal.ServiceInterfaceProxy.invoke(ServiceInterfaceProxy.java:109)
+	at com.sun.proxy.$Proxy19.fetchAcceptQueue(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.ibm.team.scm.client.internal.ScmServiceInterfaceProxy$2.run(ScmServiceInterfaceProxy.java:168)
+	at com.ibm.team.repository.client.internal.TeamRepository$3.run(TeamRepository.java:1328)
+	at com.ibm.team.repository.common.transport.CancelableCaller.call(CancelableCaller.java:79)
+	at com.ibm.team.repository.client.internal.TeamRepository.callCancelableService(TeamRepository.java:1323)
+	at com.ibm.team.scm.client.internal.ScmClientLibraryContext.callCancelableService(ScmClientLibraryContext.java:71)
+	at com.ibm.team.scm.client.internal.ScmServiceInterfaceProxy.invokeCancelableService(ScmServiceInterfaceProxy.java:164)
+	at com.ibm.team.scm.client.internal.ScmServiceInterfaceProxy.invoke(ScmServiceInterfaceProxy.java:92)
+	at com.sun.proxy.$Proxy19.fetchAcceptQueue(Unknown Source)
+	at com.ibm.team.scm.client.internal.WorkspaceConnection.fetchFromAcceptQueue(WorkspaceConnection.java:4493)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.model.PortNodesUtil.getPendingPortsContainerNode(PortNodesUtil.java:273)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager.updatePortNode(PortsCacheManager.java:445)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager.internalCacheUpdate(PortsCacheManager.java:363)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager.access$1(PortsCacheManager.java:320)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager$PortCacheUpdateJob.run(PortsCacheManager.java:683)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2016-06-23 02:06:29.375 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  annotate --username naveenmarikar123 --password virtusa@7 Main.java
+Command-line arguments:  -data @noDefault annotate --username naveenmarikar123 --password virtusa@7 Main.java
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:06:30.843
+!MESSAGE NLS unused message: ResolveCmd_No_CONFLICTS in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:06:30.844
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:06:30.845
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_1 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:06:30.845
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_2 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:06:31.049
+!MESSAGE NLS unused message: RepoUtil_NoDeliverableMatchingName in: com.ibm.team.filesystem.cli.core.internal.messages
+
+!ENTRY com.ibm.team.repository.rcp.core 4 0 2016-06-23 02:06:49.064
+!MESSAGE CRJAZ1244I Not logged in to the repository at URL "https://jazz.net/sandbox02-ccm/".
+!STACK 0
+com.ibm.team.repository.common.NotLoggedInException: CRJAZ1244I Not logged in to the repository at URL "https://jazz.net/sandbox02-ccm/".
+	at com.ibm.team.repository.client.internal.ServiceInterfaceProxy.ensureLoggedIn(ServiceInterfaceProxy.java:325)
+	at com.ibm.team.repository.client.internal.ServiceInterfaceProxy.validateServiceCall(ServiceInterfaceProxy.java:271)
+	at com.ibm.team.repository.client.internal.ServiceInterfaceProxy.invoke(ServiceInterfaceProxy.java:109)
+	at com.sun.proxy.$Proxy19.fetchAcceptQueue(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.ibm.team.scm.client.internal.ScmServiceInterfaceProxy$2.run(ScmServiceInterfaceProxy.java:168)
+	at com.ibm.team.repository.client.internal.TeamRepository$3.run(TeamRepository.java:1328)
+	at com.ibm.team.repository.common.transport.CancelableCaller.call(CancelableCaller.java:79)
+	at com.ibm.team.repository.client.internal.TeamRepository.callCancelableService(TeamRepository.java:1323)
+	at com.ibm.team.scm.client.internal.ScmClientLibraryContext.callCancelableService(ScmClientLibraryContext.java:71)
+	at com.ibm.team.scm.client.internal.ScmServiceInterfaceProxy.invokeCancelableService(ScmServiceInterfaceProxy.java:164)
+	at com.ibm.team.scm.client.internal.ScmServiceInterfaceProxy.invoke(ScmServiceInterfaceProxy.java:92)
+	at com.sun.proxy.$Proxy19.fetchAcceptQueue(Unknown Source)
+	at com.ibm.team.scm.client.internal.WorkspaceConnection.fetchFromAcceptQueue(WorkspaceConnection.java:4493)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.model.PortNodesUtil.getPendingPortsContainerNode(PortNodesUtil.java:273)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager.updatePortNode(PortsCacheManager.java:445)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager.internalCacheUpdate(PortsCacheManager.java:363)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager.access$1(PortsCacheManager.java:320)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager$PortCacheUpdateJob.run(PortsCacheManager.java:683)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2016-06-23 02:07:25.307 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  annotate --username naveenmarikar123 --password virtusa@7 Main.java
+Command-line arguments:  -data @noDefault annotate --username naveenmarikar123 --password virtusa@7 Main.java
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:07:26.730
+!MESSAGE NLS unused message: ResolveCmd_No_CONFLICTS in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:07:26.731
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:07:26.731
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_1 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:07:26.731
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_2 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:07:26.903
+!MESSAGE NLS unused message: RepoUtil_NoDeliverableMatchingName in: com.ibm.team.filesystem.cli.core.internal.messages
+!SESSION 2016-06-23 02:08:52.205 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  annotate --username naveenmarikar123 --password virtusa@7 Main.java
+Command-line arguments:  -data @noDefault annotate --username naveenmarikar123 --password virtusa@7 Main.java
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:08:53.646
+!MESSAGE NLS unused message: ResolveCmd_No_CONFLICTS in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:08:53.647
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:08:53.647
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_1 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:08:53.647
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_2 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:08:53.857
+!MESSAGE NLS unused message: RepoUtil_NoDeliverableMatchingName in: com.ibm.team.filesystem.cli.core.internal.messages
+!SESSION 2016-06-23 02:09:57.358 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  annotate --username naveenmarikar123 --password virtusa@7 Main.java
+Command-line arguments:  -data @noDefault annotate --username naveenmarikar123 --password virtusa@7 Main.java
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:09:58.826
+!MESSAGE NLS unused message: ResolveCmd_No_CONFLICTS in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:09:58.827
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:09:58.827
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_1 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:09:58.827
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_2 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:09:58.999
+!MESSAGE NLS unused message: RepoUtil_NoDeliverableMatchingName in: com.ibm.team.filesystem.cli.core.internal.messages
+
+!ENTRY com.ibm.team.repository.rcp.core 4 0 2016-06-23 02:10:34.897
+!MESSAGE CRJAZ1244I Not logged in to the repository at URL "https://jazz.net/sandbox02-ccm/".
+!STACK 0
+com.ibm.team.repository.common.NotLoggedInException: CRJAZ1244I Not logged in to the repository at URL "https://jazz.net/sandbox02-ccm/".
+	at com.ibm.team.repository.client.internal.ServiceInterfaceProxy.ensureLoggedIn(ServiceInterfaceProxy.java:325)
+	at com.ibm.team.repository.client.internal.ServiceInterfaceProxy.validateServiceCall(ServiceInterfaceProxy.java:271)
+	at com.ibm.team.repository.client.internal.ServiceInterfaceProxy.invoke(ServiceInterfaceProxy.java:109)
+	at com.sun.proxy.$Proxy19.fetchAcceptQueue(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.ibm.team.scm.client.internal.ScmServiceInterfaceProxy$2.run(ScmServiceInterfaceProxy.java:168)
+	at com.ibm.team.repository.client.internal.TeamRepository$3.run(TeamRepository.java:1328)
+	at com.ibm.team.repository.common.transport.CancelableCaller.call(CancelableCaller.java:79)
+	at com.ibm.team.repository.client.internal.TeamRepository.callCancelableService(TeamRepository.java:1323)
+	at com.ibm.team.scm.client.internal.ScmClientLibraryContext.callCancelableService(ScmClientLibraryContext.java:71)
+	at com.ibm.team.scm.client.internal.ScmServiceInterfaceProxy.invokeCancelableService(ScmServiceInterfaceProxy.java:164)
+	at com.ibm.team.scm.client.internal.ScmServiceInterfaceProxy.invoke(ScmServiceInterfaceProxy.java:92)
+	at com.sun.proxy.$Proxy19.fetchAcceptQueue(Unknown Source)
+	at com.ibm.team.scm.client.internal.WorkspaceConnection.fetchFromAcceptQueue(WorkspaceConnection.java:4493)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.model.PortNodesUtil.getPendingPortsContainerNode(PortNodesUtil.java:273)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager.updatePortNode(PortsCacheManager.java:445)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager.internalCacheUpdate(PortsCacheManager.java:363)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager.access$1(PortsCacheManager.java:320)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager$PortCacheUpdateJob.run(PortsCacheManager.java:683)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2016-06-23 02:11:52.648 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  annotate --username naveenmarikar123 --password virtusa@7 Main.java
+Command-line arguments:  -data @noDefault annotate --username naveenmarikar123 --password virtusa@7 Main.java
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:11:54.173
+!MESSAGE NLS unused message: ResolveCmd_No_CONFLICTS in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:11:54.174
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:11:54.175
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_1 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:11:54.175
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_2 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:11:54.372
+!MESSAGE NLS unused message: RepoUtil_NoDeliverableMatchingName in: com.ibm.team.filesystem.cli.core.internal.messages
+!SESSION 2016-06-23 02:12:35.654 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  load --force --repository-uri https://jazz.net/sandbox02-ccm --username naveenmarikar123 --password virtusa@7 --dir /Users/naveenmarikar/IdeaProjects/MavenTest/TestRTC NavWorkSpace
+Command-line arguments:  -data @noDefault load --force --repository-uri https://jazz.net/sandbox02-ccm --username naveenmarikar123 --password virtusa@7 --dir /Users/naveenmarikar/IdeaProjects/MavenTest/TestRTC NavWorkSpace
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:12:37.151
+!MESSAGE NLS unused message: ResolveCmd_No_CONFLICTS in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:12:37.152
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:12:37.153
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_1 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:12:37.153
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_2 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:12:37.309
+!MESSAGE NLS unused message: RepoUtil_NoDeliverableMatchingName in: com.ibm.team.filesystem.cli.core.internal.messages
+!SESSION 2016-06-23 02:13:33.771 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  load --force --repository-uri https://jazz.net/sandbox02-ccm --username naveenmarikar123 --password virtusa@7 --dir /Users/naveenmarikar/IdeaProjects/MavenTest/TestRTC NavWorkSpace
+Command-line arguments:  -data @noDefault load --force --repository-uri https://jazz.net/sandbox02-ccm --username naveenmarikar123 --password virtusa@7 --dir /Users/naveenmarikar/IdeaProjects/MavenTest/TestRTC NavWorkSpace
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:13:35.513
+!MESSAGE NLS unused message: ResolveCmd_No_CONFLICTS in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:13:35.514
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:13:35.514
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_1 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:13:35.514
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_2 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:13:35.739
+!MESSAGE NLS unused message: RepoUtil_NoDeliverableMatchingName in: com.ibm.team.filesystem.cli.core.internal.messages
+!SESSION 2016-06-23 02:14:08.453 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  annotate --username naveenmarikar123 --password virtusa@7 Main.java
+Command-line arguments:  -data @noDefault annotate --username naveenmarikar123 --password virtusa@7 Main.java
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:14:09.376
+!MESSAGE NLS unused message: ResolveCmd_No_CONFLICTS in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:14:09.377
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:14:09.377
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_1 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:14:09.378
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_2 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:14:09.491
+!MESSAGE NLS unused message: RepoUtil_NoDeliverableMatchingName in: com.ibm.team.filesystem.cli.core.internal.messages
+
+!ENTRY com.ibm.team.repository.rcp.core 4 0 2016-06-23 02:14:26.252
+!MESSAGE CRJAZ1244I Not logged in to the repository at URL "https://jazz.net/sandbox02-ccm/".
+!STACK 0
+com.ibm.team.repository.common.NotLoggedInException: CRJAZ1244I Not logged in to the repository at URL "https://jazz.net/sandbox02-ccm/".
+	at com.ibm.team.repository.client.internal.ServiceInterfaceProxy.ensureLoggedIn(ServiceInterfaceProxy.java:325)
+	at com.ibm.team.repository.client.internal.ServiceInterfaceProxy.validateServiceCall(ServiceInterfaceProxy.java:271)
+	at com.ibm.team.repository.client.internal.ServiceInterfaceProxy.invoke(ServiceInterfaceProxy.java:109)
+	at com.sun.proxy.$Proxy19.fetchAcceptQueue(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.ibm.team.scm.client.internal.ScmServiceInterfaceProxy$2.run(ScmServiceInterfaceProxy.java:168)
+	at com.ibm.team.repository.client.internal.TeamRepository$3.run(TeamRepository.java:1328)
+	at com.ibm.team.repository.common.transport.CancelableCaller.call(CancelableCaller.java:79)
+	at com.ibm.team.repository.client.internal.TeamRepository.callCancelableService(TeamRepository.java:1323)
+	at com.ibm.team.scm.client.internal.ScmClientLibraryContext.callCancelableService(ScmClientLibraryContext.java:71)
+	at com.ibm.team.scm.client.internal.ScmServiceInterfaceProxy.invokeCancelableService(ScmServiceInterfaceProxy.java:164)
+	at com.ibm.team.scm.client.internal.ScmServiceInterfaceProxy.invoke(ScmServiceInterfaceProxy.java:92)
+	at com.sun.proxy.$Proxy19.fetchAcceptQueue(Unknown Source)
+	at com.ibm.team.scm.client.internal.WorkspaceConnection.fetchFromAcceptQueue(WorkspaceConnection.java:4493)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.model.PortNodesUtil.getPendingPortsContainerNode(PortNodesUtil.java:273)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager.updatePortNode(PortsCacheManager.java:445)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager.internalCacheUpdate(PortsCacheManager.java:363)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager.access$1(PortsCacheManager.java:320)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager$PortCacheUpdateJob.run(PortsCacheManager.java:683)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2016-06-23 02:16:13.014 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  annotate --username naveenmarikar123 --password virtusa@7 Main.java
+Command-line arguments:  -data @noDefault annotate --username naveenmarikar123 --password virtusa@7 Main.java
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:16:14.753
+!MESSAGE NLS unused message: ResolveCmd_No_CONFLICTS in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:16:14.754
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:16:14.755
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_1 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:16:14.755
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_2 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:16:14.982
+!MESSAGE NLS unused message: RepoUtil_NoDeliverableMatchingName in: com.ibm.team.filesystem.cli.core.internal.messages
+!SESSION 2016-06-23 02:17:35.921 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  annotate -u naveenmarikar123 -P virtusa@7 Main.java
+Command-line arguments:  -data @noDefault annotate -u naveenmarikar123 -P virtusa@7 Main.java
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:17:36.760
+!MESSAGE NLS unused message: ResolveCmd_No_CONFLICTS in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:17:36.769
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:17:36.769
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_1 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:17:36.769
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_2 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:17:36.873
+!MESSAGE NLS unused message: RepoUtil_NoDeliverableMatchingName in: com.ibm.team.filesystem.cli.core.internal.messages
+
+!ENTRY com.ibm.team.repository.rcp.core 4 0 2016-06-23 02:17:53.368
+!MESSAGE CRJAZ1244I Not logged in to the repository at URL "https://jazz.net/sandbox02-ccm/".
+!STACK 0
+com.ibm.team.repository.common.NotLoggedInException: CRJAZ1244I Not logged in to the repository at URL "https://jazz.net/sandbox02-ccm/".
+	at com.ibm.team.repository.client.internal.ServiceInterfaceProxy.ensureLoggedIn(ServiceInterfaceProxy.java:325)
+	at com.ibm.team.repository.client.internal.ServiceInterfaceProxy.validateServiceCall(ServiceInterfaceProxy.java:271)
+	at com.ibm.team.repository.client.internal.ServiceInterfaceProxy.invoke(ServiceInterfaceProxy.java:109)
+	at com.sun.proxy.$Proxy19.fetchAcceptQueue(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.ibm.team.scm.client.internal.ScmServiceInterfaceProxy$2.run(ScmServiceInterfaceProxy.java:168)
+	at com.ibm.team.repository.client.internal.TeamRepository$3.run(TeamRepository.java:1328)
+	at com.ibm.team.repository.common.transport.CancelableCaller.call(CancelableCaller.java:79)
+	at com.ibm.team.repository.client.internal.TeamRepository.callCancelableService(TeamRepository.java:1323)
+	at com.ibm.team.scm.client.internal.ScmClientLibraryContext.callCancelableService(ScmClientLibraryContext.java:71)
+	at com.ibm.team.scm.client.internal.ScmServiceInterfaceProxy.invokeCancelableService(ScmServiceInterfaceProxy.java:164)
+	at com.ibm.team.scm.client.internal.ScmServiceInterfaceProxy.invoke(ScmServiceInterfaceProxy.java:92)
+	at com.sun.proxy.$Proxy19.fetchAcceptQueue(Unknown Source)
+	at com.ibm.team.scm.client.internal.WorkspaceConnection.fetchFromAcceptQueue(WorkspaceConnection.java:4493)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.model.PortNodesUtil.getPendingPortsContainerNode(PortNodesUtil.java:273)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager.updatePortNode(PortsCacheManager.java:445)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager.internalCacheUpdate(PortsCacheManager.java:363)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager.access$1(PortsCacheManager.java:320)
+	at com.ibm.team.filesystem.rcp.core.internal.changes.ports.PortsCacheManager$PortCacheUpdateJob.run(PortsCacheManager.java:683)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2016-06-23 02:21:12.173 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  diff --repository-uri https://jazz.ney/sandbox02-ccm -u naveenmarikar123 -P virtusa@7 file Main.java
+Command-line arguments:  -data @noDefault diff --repository-uri https://jazz.ney/sandbox02-ccm -u naveenmarikar123 -P virtusa@7 file Main.java
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:21:13.242
+!MESSAGE NLS unused message: ResolveCmd_No_CONFLICTS in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:21:13.242
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:21:13.243
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_1 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:21:13.243
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_2 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:21:13.417
+!MESSAGE NLS unused message: RepoUtil_NoDeliverableMatchingName in: com.ibm.team.filesystem.cli.core.internal.messages
+!SESSION 2016-06-23 02:22:29.613 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  diff --repository-uri https://jazz.ney/sandbox02-ccm -u naveenmarikar123 -P virtusa@7 file Main.java
+Command-line arguments:  -data @noDefault diff --repository-uri https://jazz.ney/sandbox02-ccm -u naveenmarikar123 -P virtusa@7 file Main.java
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:22:30.485
+!MESSAGE NLS unused message: ResolveCmd_No_CONFLICTS in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:22:30.486
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:22:30.486
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_1 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:22:30.486
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_2 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 02:22:30.622
+!MESSAGE NLS unused message: RepoUtil_NoDeliverableMatchingName in: com.ibm.team.filesystem.cli.core.internal.messages
