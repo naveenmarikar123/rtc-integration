@@ -30,7 +30,7 @@ public class Application {
 
 
     public static JazzScmProviderRepository getRepositoryDetails() {
-        return new JazzScmProviderRepository("https://jazz.net/sandbox02-ccm/","naveenmarikar123","virtusa@7","",0,"NavWorkSpace");
+        return new JazzScmProviderRepository("https://jazz.net/sandbox02-ccm/","naveenmarikar123","","",0,"NavWorkSpace");
     }
 
     public static void main(String[] args) throws ScmException {
