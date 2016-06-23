@@ -26,12 +26,11 @@ import java.io.File;
 public class Application {
 
     private static final String JAZZ_SERVER = "scm:jazz:naveenmarikar123;virtusa@7@https://jazz.net/sandbox02-ccm:NavWorkSpace";
+    
+    
 
-
-
-    public static JazzScmProviderRepository getRepositoryDetails() {
-        return new JazzScmProviderRepository("https://jazz.net/sandbox02-ccm/","naveenmarikar123","","",0,"NavWorkSpace");
-    }
+    
+    
 
     public static void main(String[] args) throws ScmException {
 
@@ -53,9 +52,23 @@ public class Application {
         //Diff Extractor - Current File with previous revision
         //DiffScmResult result3 = scmManager.diff(scmRepository,new ScmFileSet(new File("TestRTC/src")))
 
-
-
-
+    }
+    
+    public static String generateJazzServerURL() {
+    	
+    	StringBuilder url = new StringBuilder();
+    	url.append("scm");
+    	url.append(":");
+    	url.append("jazz");
+    	url.append(":");
+    	url.append(LoginConstants.username);
+    	url.append(";");
+    	url.append(LoginConstants.password);
+    	url.append("@");
+    	url.append(LoginConstants.repositoryUri);
+    	url.append(":");
+    	url.append(LoginConstants.workspaceName);
+    	return url.toString();	
     }
 
 }

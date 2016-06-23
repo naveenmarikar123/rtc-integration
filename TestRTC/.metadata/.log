@@ -490,3 +490,25 @@ Command-line arguments:  -data @noDefault diff --repository-uri https://jazz.ney
 
 !ENTRY org.eclipse.osgi 2 1 2016-06-23 02:22:30.622
 !MESSAGE NLS unused message: RepoUtil_NoDeliverableMatchingName in: com.ibm.team.filesystem.cli.core.internal.messages
+!SESSION 2016-06-23 12:55:17.617 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  load --force --repository-uri https://jazz.net/sandbox02-ccm --username naveenmarikar123 --password virtusa@7 --dir C:\Users\nmohammed\Desktop\GitProjects\rtc-integration\TestRTC NavWorkSpace
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data @noDefault load --force --repository-uri https://jazz.net/sandbox02-ccm --username naveenmarikar123 --password virtusa@7 --dir C:\Users\nmohammed\Desktop\GitProjects\rtc-integration\TestRTC NavWorkSpace
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 12:55:18.225
+!MESSAGE NLS unused message: ResolveCmd_No_CONFLICTS in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 12:55:18.225
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 12:55:18.225
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_1 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 12:55:18.225
+!MESSAGE NLS unused message: ResolveCmd_INVALID_SANDBOX_ARGUMENT_2 in: com.ibm.team.filesystem.cli.client.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-23 12:55:18.287
+!MESSAGE NLS unused message: RepoUtil_NoDeliverableMatchingName in: com.ibm.team.filesystem.cli.core.internal.messages
